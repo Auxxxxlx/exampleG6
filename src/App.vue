@@ -8,7 +8,6 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import { useStore } from "vuex"
 import G6 from '@antv/g6'
 
 console.log(G6)

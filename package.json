@@ -6,33 +6,10 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@antv/g6": "^3.5.12",
-    "@types/mousetrap": "^1.6.3",
-    "animejs": "^3.2.0",
-    "date-fns": "^2.15.0",
-    "electron-window-state": "^5.0.3",
-    "mitt": "^2.1.0",
-    "mousetrap": "git+https://github.com/Auxxxxlx/mousetrap.git",
-    "nanoid": "^3.1.10",
-    "pingman": "^1.0.7",
-    "smooth-scrollbar": "^8.5.2",
-    "tailwindcss": "^1.5.2",
-    "timeago.js": "^4.0.2",
-    "tippy.js": "^6.2.5",
-    "url": "^0.11.0",
-    "vue-i18n": "^9.0.0-alpha.11",
-    "vue-router": "4.0.0-beta.2",
-    "vuex": "4.0.0-beta.4"
+    "@antv/g6": "^3.5.12"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.0-rc.1",
-    "electron": "^9.1.1",
-    "electron-builder": "^22.7.0",
-    "env-cmd": "^10.1.0",
-    "npm-run-all": "^4.1.5",
-    "postcss-current-selector": "^0.0.3",
-    "postcss-nested": "^4.2.3",
-    "postcss-nested-ancestors": "^2.0.0",
     "typescript": "^3.9.7",
     "vite": "^1.0.0-rc.1"
   }

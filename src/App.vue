@@ -17,8 +17,6 @@ export default {
     HelloWorld
   },
   setup () {
-    const store = useStore()
-    console.log(store)
   }
 }
 </script>

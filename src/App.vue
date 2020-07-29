@@ -8,9 +8,9 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import G6 from '@antv/g6'
+// import G6 from '@antv/g6/es'
 
-console.log(G6)
+// console.log(G6)
 export default {
   name: 'App',
   components: {

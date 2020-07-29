@@ -6,7 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@antv/g6": "^3.5.12"
+    "vue": "^3.0.0-rc.1"
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.0-rc.1",

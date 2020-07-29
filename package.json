@@ -5,9 +5,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "dependencies": {
-    "vue": "^3.0.0-rc.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.0-rc.1",
     "typescript": "^3.9.7",
